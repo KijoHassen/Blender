@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "未命名/Welcome.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "未命名.md"
               }
             }
           }
@@ -146,10 +144,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "7ce420c2c9e55aa8",
+  "active": "0d06d0cb6e3da0e0",
   "lastOpenFiles": [
+    "未命名",
+    "未命名/Welcome.md",
+    "未命名.md",
     "README.md",
-    "create a link.md",
-    "Welcome.md"
+    "未命名/create a link.md"
   ]
 }
