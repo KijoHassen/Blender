@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "未命名/Welcome.md",
+                "file": "Default/Welcome.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9f5a40134aa7ba62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "未命名.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,12 +159,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0d06d0cb6e3da0e0",
+  "active": "9f5a40134aa7ba62",
   "lastOpenFiles": [
-    "未命名",
-    "未命名/Welcome.md",
     "未命名.md",
+    "Markdown",
+    "Default",
+    "Default/Welcome.md",
     "README.md",
-    "未命名/create a link.md"
+    "Default/create a link.md"
   ]
 }
