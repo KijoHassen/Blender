@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Markdown.md",
+                "file": "Default/create a link.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Markdown.md",
+                "file": "Default/create a link.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Markdown.md",
+                "file": "Default/create a link.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Markdown.md"
+                "file": "Default/create a link.md"
               }
             }
           }
@@ -159,13 +159,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0d06d0cb6e3da0e0",
+  "active": "9f5a40134aa7ba62",
   "lastOpenFiles": [
+    "Default/Welcome.md",
+    "Default/create a link.md",
     "Markdown.md",
     "Markdown",
     "Default",
-    "Default/Welcome.md",
-    "README.md",
-    "Default/create a link.md"
+    "README.md"
   ]
 }
