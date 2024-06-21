@@ -6,7 +6,7 @@
       {
         "id": "f9c7e7e2cd25e06b",
         "type": "tabs",
-        "dimension": 60.64139941690963,
+        "dimension": 74.35897435897436,
         "children": [
           {
             "id": "083678f6e238dff4",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "create a link.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
       {
         "id": "0d905da107ece8b1",
         "type": "tabs",
-        "dimension": 39.35860058309038,
+        "dimension": 25.64102564102564,
         "children": [
           {
             "id": "19e92a5da5597152",
@@ -85,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 202.5
   },
   "right": {
     "id": "e8dba5fb068cb4f6",
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "create a link.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "create a link.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "create a link.md"
               }
             }
           }
@@ -162,8 +162,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "19e92a5da5597152",
+  "active": "083678f6e238dff4",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Welcome.md",
+    "create a link.md"
   ]
 }
