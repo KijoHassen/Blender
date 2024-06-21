@@ -6,6 +6,7 @@
       {
         "id": "f9c7e7e2cd25e06b",
         "type": "tabs",
+        "dimension": 60.64139941690962,
         "children": [
           {
             "id": "083678f6e238dff4",
@@ -24,6 +25,7 @@
       {
         "id": "0d905da107ece8b1",
         "type": "tabs",
+        "dimension": 39.35860058309038,
         "children": [
           {
             "id": "19e92a5da5597152",
@@ -83,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "e8dba5fb068cb4f6",
@@ -99,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Welcome.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,7 +158,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "083678f6e238dff4",
+  "active": "19e92a5da5597152",
   "lastOpenFiles": [
     "Welcome.md"
   ]
