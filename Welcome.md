@@ -6,3 +6,4 @@ When you're ready, delete this note and make the vault your own.
 
 Hello, World.
 1231231234567890
+I wrote sth on my Mac.
