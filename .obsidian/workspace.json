@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Default/Welcome.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9f5a40134aa7ba62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Default/create a link.md",
+                "file": "Markdown.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Default/create a link.md",
+                "file": "Markdown.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,9 +102,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Default/create a link.md",
+                "file": "Markdown.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Default/create a link.md"
+                "file": "Markdown.md"
               }
             }
           }
@@ -146,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,7 +145,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "9f5a40134aa7ba62",
+  "active": "7ce420c2c9e55aa8",
   "lastOpenFiles": [
     "Default/Welcome.md",
     "Default/create a link.md",
