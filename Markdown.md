@@ -10,6 +10,7 @@
 ~~Delete~~
 *Italic*
 **Bold**
-***
+***Bold Italic***
+
 
 
