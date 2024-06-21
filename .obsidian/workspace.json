@@ -6,7 +6,7 @@
       {
         "id": "f9c7e7e2cd25e06b",
         "type": "tabs",
-        "dimension": 60.64139941690962,
+        "dimension": 60.64139941690963,
         "children": [
           {
             "id": "083678f6e238dff4",
@@ -101,6 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Welcome.md"
+              }
             }
           }
         ]
