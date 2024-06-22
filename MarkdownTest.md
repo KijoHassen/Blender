@@ -5,12 +5,13 @@
 ##### 五级标题
 ###### 六级标题
 
-`代码`
+`Code `
 ==高亮==
 ~~Delete~~
 *Italic*
 **Bold**
 ***Bold Italic***
+
 
 
 
