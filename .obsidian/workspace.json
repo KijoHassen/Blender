@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Default/Welcome.md",
+                "file": "MarkdownTest/Bi-Direction Link.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Default/Welcome.md",
+                "file": "MarkdownTest/Bi-Direction Link.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Default/Welcome.md",
+                "file": "MarkdownTest/Bi-Direction Link.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Default/Welcome.md"
+                "file": "MarkdownTest/Bi-Direction Link.md"
               }
             }
           }
@@ -133,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,8 +148,11 @@
   },
   "active": "7ce420c2c9e55aa8",
   "lastOpenFiles": [
-    "Default/create a link.md",
+    "9A7DCF3C-6567-40B4-BF5F-DAE1F9D6BAA6.jpeg",
+    "MarkdownTest/Bi-Direction Link.md",
     "MarkdownTest/MarkdownTest.md",
+    "未命名.md",
+    "Default/create a link.md",
     "Default/Welcome.md",
     "MarkdownTest",
     "Default",

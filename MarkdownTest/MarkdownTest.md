@@ -12,6 +12,4 @@
 **Bold**
 ***Bold Italic***
 
-
-
-
+This is a [[Bi-Direction Link]]
