@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MarkdownTest.md",
+                "file": "Default/Welcome.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MarkdownTest.md",
+                "file": "Default/Welcome.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MarkdownTest.md",
+                "file": "Default/Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MarkdownTest.md"
+                "file": "Default/Welcome.md"
               }
             }
           }
@@ -148,10 +148,10 @@
   },
   "active": "7ce420c2c9e55aa8",
   "lastOpenFiles": [
-    "Default/Welcome.md",
     "Default/create a link.md",
-    "MarkdownTest.md",
-    "Markdown",
+    "MarkdownTest/MarkdownTest.md",
+    "Default/Welcome.md",
+    "MarkdownTest",
     "Default",
     "README.md"
   ]

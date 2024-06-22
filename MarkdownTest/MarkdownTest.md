@@ -5,7 +5,7 @@
 ##### 五级标题
 ###### 六级标题
 
-`Code `
+`Code Quoting`
 ==高亮==
 ~~Delete~~
 *Italic*
