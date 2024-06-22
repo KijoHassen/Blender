@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MarkdownTest/Bi-Direction Link.md",
+                "file": "LaTexTest/LaTeXTest.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MarkdownTest/Bi-Direction Link.md",
+                "file": "LaTexTest/LaTeXTest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MarkdownTest/Bi-Direction Link.md",
+                "file": "LaTexTest/LaTeXTest.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MarkdownTest/Bi-Direction Link.md"
+                "file": "LaTexTest/LaTeXTest.md"
               }
             }
           }
@@ -146,12 +146,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "0c920aeb34ef0796",
+  "active": "7ce420c2c9e55aa8",
   "lastOpenFiles": [
-    "9A7DCF3C-6567-40B4-BF5F-DAE1F9D6BAA6.jpeg",
-    "MarkdownTest/Bi-Direction Link.md",
+    "LaTexTest",
     "MarkdownTest/MarkdownTest.md",
-    "未命名.md",
+    "MarkdownTest/Bi-Direction Link.md",
+    "LaTexTest/LaTeXTest.md",
+    "9A7DCF3C-6567-40B4-BF5F-DAE1F9D6BAA6.jpeg",
     "Default/create a link.md",
     "Default/Welcome.md",
     "MarkdownTest",
