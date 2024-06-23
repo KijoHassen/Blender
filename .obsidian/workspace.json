@@ -4,35 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "f9c7e7e2cd25e06b",
+        "id": "8691a0edfa4fba92",
         "type": "tabs",
-        "dimension": 60.64139941690963,
         "children": [
           {
-            "id": "083678f6e238dff4",
+            "id": "7ce420c2c9e55aa8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "LaTexTest/LaTeXTest.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "0d905da107ece8b1",
-        "type": "tabs",
-        "dimension": 39.35860058309038,
-        "children": [
-          {
-            "id": "19e92a5da5597152",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -85,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 202.5
   },
   "right": {
     "id": "e8dba5fb068cb4f6",
@@ -101,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "LaTexTest/LaTeXTest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,9 +103,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "LaTexTest/LaTeXTest.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -141,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "LaTexTest/LaTeXTest.md"
               }
             }
           }
@@ -149,8 +134,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,8 +146,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "19e92a5da5597152",
+  "active": "7ce420c2c9e55aa8",
   "lastOpenFiles": [
-    "Welcome.md"
+    "LaTexTest",
+    "MarkdownTest/MarkdownTest.md",
+    "MarkdownTest/Bi-Direction Link.md",
+    "LaTexTest/LaTeXTest.md",
+    "9A7DCF3C-6567-40B4-BF5F-DAE1F9D6BAA6.jpeg",
+    "Default/create a link.md",
+    "Default/Welcome.md",
+    "MarkdownTest",
+    "Default",
+    "README.md"
   ]
 }
