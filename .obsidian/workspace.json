@@ -134,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Welcome.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -156,8 +154,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "19e92a5da5597152",
+  "active": "0d06d0cb6e3da0e0",
   "lastOpenFiles": [
+    "Blender",
     "MarkdownTest/MarkdownTest.md",
     "MarkdownTest/Bi-Direction Link.md",
     "MarkdownTest",
