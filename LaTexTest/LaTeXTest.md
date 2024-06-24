@@ -8,5 +8,5 @@ $$
 R_N(x) = {{f^{(N+1)}}(\epsilon) \over (N+1)!}(x-a)^{N+1}
 $$
 $$
-\alpha       
+\alpha\beta\gamma\delta
 $$
