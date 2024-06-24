@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blender/Blender.md",
+                "file": "Blender/1.基本操作.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blender/Blender.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blender/Blender.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +138,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Blender/Blender.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -162,9 +158,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "083678f6e238dff4",
+  "active": "19e92a5da5597152",
   "lastOpenFiles": [
-    "Blender/Blender.md",
+    "Blender/1.基本操作.md",
     "Blender",
     "MarkdownTest/MarkdownTest.md",
     "MarkdownTest/Bi-Direction Link.md",
