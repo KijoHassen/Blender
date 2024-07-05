@@ -6,33 +6,17 @@
       {
         "id": "f9c7e7e2cd25e06b",
         "type": "tabs",
-        "dimension": 60.64139941690963,
         "children": [
           {
-            "id": "083678f6e238dff4",
+            "id": "c02446798c0d4e73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blender/1.基本操作.md",
+                "file": "Blender/2.坐标系与轴心点.md",
                 "mode": "source",
                 "source": false
               }
-            }
-          }
-        ]
-      },
-      {
-        "id": "0d905da107ece8b1",
-        "type": "tabs",
-        "dimension": 39.35860058309038,
-        "children": [
-          {
-            "id": "19e92a5da5597152",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -101,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blender/1.基本操作.md",
+                "file": "Blender/2.坐标系与轴心点.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blender/1.基本操作.md",
+                "file": "Blender/2.坐标系与轴心点.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,11 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blender/1.基本操作.md"
+                "file": "Blender/2.坐标系与轴心点.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -162,10 +147,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "083678f6e238dff4",
+  "active": "c02446798c0d4e73",
   "lastOpenFiles": [
-    "Default/create a link.md",
     "Blender/1.基本操作.md",
+    "Blender/2.坐标系与轴心点.md",
+    "Default/create a link.md",
     "Blender",
     "MarkdownTest/MarkdownTest.md",
     "MarkdownTest/Bi-Direction Link.md",
