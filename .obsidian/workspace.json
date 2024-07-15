@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blender/3.吸附&衰减编辑.md",
+                "file": "MarkdownTest/Bi-Direction Link.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blender/3.吸附&衰减编辑.md",
+                "file": "MarkdownTest/Bi-Direction Link.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blender/3.吸附&衰减编辑.md",
+                "file": "MarkdownTest/Bi-Direction Link.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blender/3.吸附&衰减编辑.md"
+                "file": "MarkdownTest/Bi-Direction Link.md"
               }
             }
           }
@@ -160,19 +160,19 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "722df66f31a50beb",
+  "active": "0d06d0cb6e3da0e0",
   "lastOpenFiles": [
-    "Blender/2.坐标系与轴心点.md",
-    "Blender/3.吸附&衰减编辑.md",
-    "Blender/1.基本操作.md",
-    "Default/create a link.md",
-    "Blender",
     "MarkdownTest/MarkdownTest.md",
     "MarkdownTest/Bi-Direction Link.md",
-    "MarkdownTest",
     "LaTexTest/LaTeXTest.md",
-    "LaTexTest",
     "Default/Welcome.md",
+    "Default/create a link.md",
+    "Blender/3.吸附&衰减编辑.md",
+    "Blender/2.坐标系与轴心点.md",
+    "Blender/1.基本操作.md",
+    "Blender",
+    "MarkdownTest",
+    "LaTexTest",
     "Default",
     "Welcome.md"
   ]
