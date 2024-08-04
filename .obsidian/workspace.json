@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f9c7e7e2cd25e06b",
+        "id": "850412a790ba862b",
         "type": "tabs",
         "children": [
           {
-            "id": "c02446798c0d4e73",
+            "id": "f627efcaab8ec5d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blender/2.坐标系与轴心点.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "722df66f31a50beb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blender/2.坐标系与轴心点.md",
+                "file": "Blender/BoneDynamicsPro/用法.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blender/2.坐标系与轴心点.md",
+                "file": "Blender/BoneDynamicsPro/用法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blender/2.坐标系与轴心点.md",
+                "file": "Blender/BoneDynamicsPro/用法.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blender/2.坐标系与轴心点.md"
+                "file": "Blender/BoneDynamicsPro/用法.md"
               }
             }
           }
@@ -159,15 +147,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "c02446798c0d4e73",
+  "active": "f627efcaab8ec5d1",
   "lastOpenFiles": [
+    "Blender/BoneDynamicsPro",
+    "Blender/BoneDynamicsPro/用法.md",
+    "Blender/2.坐标系与轴心点.md",
     "Blender/3.吸附&衰减编辑.md",
     "MarkdownTest/Bi-Direction Link.md",
     "MarkdownTest/MarkdownTest.md",
     "LaTexTest/LaTeXTest.md",
     "Default/Welcome.md",
     "Default/create a link.md",
-    "Blender/2.坐标系与轴心点.md",
     "Blender/1.基本操作.md",
     "Blender",
     "MarkdownTest",
