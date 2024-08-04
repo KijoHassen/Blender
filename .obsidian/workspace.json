@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blender/BoneDynamicsPro/用法.md",
+                "file": "Blender/1.基本操作.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blender/BoneDynamicsPro/用法.md",
+                "file": "Blender/1.基本操作.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blender/BoneDynamicsPro/用法.md",
+                "file": "Blender/1.基本操作.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blender/BoneDynamicsPro/用法.md"
+                "file": "Blender/1.基本操作.md"
               }
             }
           }
@@ -149,8 +149,8 @@
   },
   "active": "f627efcaab8ec5d1",
   "lastOpenFiles": [
-    "Blender/BoneDynamicsPro",
     "Blender/BoneDynamicsPro/用法.md",
+    "Blender/BoneDynamicsPro",
     "Blender/2.坐标系与轴心点.md",
     "Blender/3.吸附&衰减编辑.md",
     "MarkdownTest/Bi-Direction Link.md",
