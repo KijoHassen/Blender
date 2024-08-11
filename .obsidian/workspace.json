@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f627efcaab8ec5d1",
+            "id": "79771844e9e5dc87",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Blender/BoneDynamicsPro/用法.md",
+                "file": "Blender/4.Textures.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blender/BoneDynamicsPro/用法.md",
+                "file": "Blender/4.Textures.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blender/BoneDynamicsPro/用法.md",
+                "file": "Blender/4.Textures.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blender/BoneDynamicsPro/用法.md"
+                "file": "Blender/4.Textures.md"
               }
             }
           }
@@ -147,13 +147,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "f627efcaab8ec5d1",
+  "active": "79771844e9e5dc87",
   "lastOpenFiles": [
-    "Blender/1.基本操作.md",
+    "Pasted image 20240811135246.png",
+    "未命名 1.md",
+    "Blender/4.Textures.md",
+    "Blender/3.吸附&衰减编辑.md",
+    "未命名",
     "Blender/BoneDynamicsPro/用法.md",
+    "Blender/1.基本操作.md",
     "Blender/BoneDynamicsPro",
     "Blender/2.坐标系与轴心点.md",
-    "Blender/3.吸附&衰减编辑.md",
     "MarkdownTest/Bi-Direction Link.md",
     "MarkdownTest/MarkdownTest.md",
     "LaTexTest/LaTeXTest.md",
