@@ -11,11 +11,9 @@
             "id": "79771844e9e5dc87",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Blender/4.Textures.md",
-                "mode": "source",
-                "source": false
+                "file": "Blender/pics/屏幕截图 2024-08-11 134621 1.png"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blender/4.Textures.md",
+                "file": "Blender/pics/屏幕截图 2024-08-11 134621 1.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blender/4.Textures.md",
+                "file": "Blender/pics/屏幕截图 2024-08-11 134621 1.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blender/4.Textures.md"
+                "file": "Blender/pics/屏幕截图 2024-08-11 134621 1.png"
               }
             }
           }
@@ -149,16 +147,16 @@
   },
   "active": "79771844e9e5dc87",
   "lastOpenFiles": [
-    "LaTexTest/LaTeXTest.md",
     "Blender/4.Textures.md",
     "Blender/pics/屏幕截图 2024-08-11 134621.png",
-    "Blender/pics",
     "Blender/pics/屏幕截图 2024-08-11 134621 1.png",
-    "Blender/pics/屏幕截图 2024-08-11 134842 1.png",
-    "Blender/pics/屏幕截图 2024-08-11 135141.png",
-    "Blender/pics/屏幕截图 2024-08-11 134959.png",
     "Blender/pics/屏幕截图 2024-08-11 134842.png",
+    "Blender/pics/屏幕截图 2024-08-11 134842 1.png",
+    "Blender/pics/屏幕截图 2024-08-11 134959.png",
+    "Blender/pics/屏幕截图 2024-08-11 135141.png",
     "Blender/pics/Pasted image 20240811135246.png",
+    "LaTexTest/LaTeXTest.md",
+    "Blender/pics",
     "未命名 1.md",
     "Blender/3.吸附&衰减编辑.md",
     "未命名",
